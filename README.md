@@ -89,14 +89,13 @@ pip install -r requirements.txt
 If you use this work, please cite:
 
 ```
-S. Vanjari, S. Mandlik, B. Bhoir. "ScholarGenie: An AI-Driven Intelligent
+S. Mandlik, B. Bhoir. "ScholarGenie: An AI-Driven Intelligent
 Scholarship Recommendation System with Eligibility Analysis and Multilingual
 Support." Marathwada Mitra Mandal's College of Engineering, Pune. [TODO: add year/venue/link]
 ```
 
 ## Authors
 
-- Sneha Vanjari (guide)
 - Soumya Mandlik
 - Bhavika Bhoir
 
@@ -104,4 +103,4 @@ Department of Information Technology, MMCOE, Pune, India.
 
 ## License
 
-[TODO: choose, e.g. MIT]
+MIT License
