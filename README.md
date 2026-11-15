@@ -5,7 +5,6 @@ An AI-driven scholarship recommendation framework that combines rule-based eligi
 
 > **Status:** Conceptual framework with a prototype in progress. Items marked `[TODO]` are not yet implemented or measured. No results are reported until they have been run.
 
-📄 **Paper:** [TODO: add arXiv / Zenodo link]
 
 ## Problem
 
