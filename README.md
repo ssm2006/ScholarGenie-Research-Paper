@@ -63,15 +63,6 @@ ScholarGenie/
 └── paper/        # paper PDF
 ```
 
-## Getting started
-
-[TODO: fill in once the prototype exists]
-
-```bash
-git clone https://github.com/ssm2006/ScholarGenie.git
-cd ScholarGenie
-pip install -r requirements.txt
-```
 
 ## Roadmap
 
